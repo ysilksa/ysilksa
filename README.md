@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ysilksa
-- 👀 I’m interested in learning about the different paths that CS can take me- currently interested in front/back end development and AI
-- 🌱 I’m currently learning C and C++.
+- 👀 I’m interested in learning about the different paths that CS can take me- currently interested in front/back end development, UX/UI, AI
+- 🌱 Languages: C, C++, Java, Python, JavaScript
 - 💞️ I’m looking to collaborate on any kind of project to expand my basic knowledge.
 - 📫 Email: isabellayan2027@u.northwestern.edu
 
