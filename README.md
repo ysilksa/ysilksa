@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on any kind of project to expand my basic knowledge.
 - 💌 Email: isabellayan2027@u.northwestern.edu, LinkedIn: https://www.linkedin.com/in/isabellayan814
 
+
+[CURRENT PROJECT DISC SWEB CLICK THIS](https://github.com/disc-sweb/frontend)
+
 ### Projects
 __Personal Projects__
 - none.. yet!
