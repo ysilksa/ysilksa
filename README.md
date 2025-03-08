@@ -1,7 +1,7 @@
 - 🐇 Hi, I’m @ysilksa! I'm interested about diving into full-stack development and UX/UI! I'm currently self-learning Python. 
-- 🎀 Languages: C, C++, Java, Python, JavaScript, SQL, Swift/SwiftUI
+- 🎀 Languages: React, C, C++, Java, Python, JavaScript, SQL, Swift/SwiftUI
 - 🫧 Other: MATLAB, Figma
-- 💞️ I’m looking to collaborate on any kind of project to expand my basic knowledge.
+- 💞️ I'm looking to expand my UI portfolio!
 - 💌 Email: isabellayan2027@u.northwestern.edu, LinkedIn: https://www.linkedin.com/in/isabellayan814
 
 
