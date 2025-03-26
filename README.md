@@ -9,7 +9,8 @@
 
 ### Projects
 __Personal Projects__
-- none.. yet!
+- [Weatherstack Weather App](https://github.com/ysilksa/simple-weather-app)
+  - A simple weather web app used to practice usage of API endpoints and UI design.
 
 __Hack-a-Thons__
 - [2024 WildHacks](https://github.com/ysilksa/scheduler)
