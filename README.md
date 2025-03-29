@@ -5,18 +5,20 @@
 - 💌 Email: isabellayan2027@u.northwestern.edu, LinkedIn: https://www.linkedin.com/in/isabellayan814
 
 
-[CURRENT PROJECT DISC SWEB CLICK THIS](https://github.com/disc-sweb/frontend)
+[CURRENT PROJECT DISC SWEB](https://github.com/disc-sweb/frontend)
 
-### Projects
-__Personal Projects__
+
+## Projects
 - [Weatherstack Weather App](https://github.com/ysilksa/simple-weather-app)
   - A simple weather web app used to practice usage of API endpoints and UI design.
+- [Sokana Collective Web Design](https://github.com/disc-sweb/frontend)
+  - Project for the non-profit organization Sokana Collective to revamp their current website. 
 
-__Hack-a-Thons__
+## Hack-a-Thons
 - [2024 WildHacks](https://github.com/ysilksa/scheduler)
   - Created the priority queue in JavaScript. 
 
-__Programs__
+## Programs
 - [2024 iOS App Development Program](https://github.com/ysilksa/girlcode)
   - Created the skeleton in SwiftUI.
   - Designed the Profile subpage in Figma. 
