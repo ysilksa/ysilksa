@@ -16,7 +16,7 @@
 
 ## Hack-a-Thons
 - [2025 WildHacks](https://github.com/ysilksa/jellyqueue)
-  - Designed the [UI](https://www.figma.com/design/O6yLcSrKdppXSJapw4Mbsi/wildhacks2025?node-id=0-1&t=Ik69JcKeCHjTrBvz-1) and implemented it.
+  - Designed the [UI](https://www.figma.com/design/O6yLcSrKdppXSJapw4Mbsi/wildhacks2025?node-id=0-1&t=Ik69JcKeCHjTrBvz-1) and implemented sign-in page UI.
 - [2024 WildHacks](https://github.com/ysilksa/scheduler)
   - Created the priority queue in JavaScript. 
 
