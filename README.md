@@ -5,14 +5,15 @@
 - 💌 Email: isabellayan2027@u.northwestern.edu, LinkedIn: https://www.linkedin.com/in/isabellayan814
 
 
-[CURRENT PROJECT DISC SWEB](https://github.com/disc-sweb/frontend)
-
-
 ## Projects
 - [Weatherstack Weather App](https://github.com/ysilksa/simple-weather-app)
   - A simple weather web app used to practice usage of API endpoints and UI design.
 - [Sokana Collective Web Design](https://github.com/disc-sweb/frontend)
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
+
+## UI Design Portfolio
+- [CodePath Prework](https://www.figma.com/design/108DGbEm1sSLZUVhrFFADo/Yan-CodePath-Pre-Work-Web101?node-id=2-3&t=CElUbJOroobZAcT0-1)
+  - Event website that highlights new pop-up events in South Korea for foreign travelers.
 
 ## Hack-a-Thons
 - [2025 WildHacks](https://github.com/ysilksa/jellyqueue)
