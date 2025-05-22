@@ -1,6 +1,6 @@
-- 🐇 I'm Chisa Yan, a university student interested about diving into full-stack development and UX/UI!
+- 🐇 I'm Chisa Yan, an undergraduate student studying at Northwestern interested about diving into full-stack development and UX/UI!
 - 🎀 Languages: C, C++, Java, Python, JavaScript, HTML, CSS, SQL, Swift/SwiftUI
-- 🎨 Frameworks: React, Node.js
+- 🎨 Frameworks: React, Node.js, Next.js
 - 🫧 Other: MATLAB, Figma
 - 💞️ I'm looking to expand my UI portfolio and learn new JavaScript frameworks.
 - 💌 Email: isabellayan2027@u.northwestern.edu, isabellayan831@gmail.com, LinkedIn: https://www.linkedin.com/in/isabellayan814
