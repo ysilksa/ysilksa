@@ -2,7 +2,7 @@
 - 🎀 Languages: C, C++, Java, Python, JavaScript, HTML, CSS, SQL, Swift/SwiftUI
 - 🎨 Frameworks: React, Node.js, Next.js
 - 🫧 Other: MATLAB, Figma
-- 💞️ I'm looking to expand my UI portfolio and learn new JavaScript frameworks.
+- 💞️ I'm looking to expand my UI portfolio and learn new JavaScript frameworks. I'm currently learning TypeScript and Angular!
 - 💌 Email: isabellayan2027@u.northwestern.edu, isabellayan831@gmail.com, LinkedIn: https://www.linkedin.com/in/isabellayan814
 
 
