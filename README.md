@@ -7,8 +7,6 @@
 
 
 ## Projects
-- [Weatherstack Weather App](https://github.com/ysilksa/simple-weather-app)
-  - A simple weather web app used to practice usage of API endpoints and UI design.
 - [Sokana Collective Web Design](https://github.com/disc-sweb/frontend)
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
 
