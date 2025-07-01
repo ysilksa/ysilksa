@@ -7,6 +7,9 @@
 
 
 ## Projects
+- [CodePath Summer 2025](https://typing-loyal-octopus-582.vscodeedu.app)
+  - In progress for CodePath WEB101 course.
+  - Event website that highlights new pop-up events in South Korea for foreign travelers.
 - [Sokana Collective Web Design](https://github.com/disc-sweb/frontend)
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
 
