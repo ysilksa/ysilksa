@@ -16,6 +16,8 @@
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
 
 ## UI Design Portfolio
+- [MoodMeals](https://www.figma.com/design/imzRtPKvEhazSUgy3Evc2f/MoodMeals?node-id=1-6&t=nllMtfQdzPEayIZy-1)
+  -  An AI-powered app that recommends meals based on the user's emotional state.
 - [Personal Website](https://www.figma.com/design/A1r8W9sf57LIc6lbnGbmoJ/Chisa-s-Personal-Website?node-id=0-1&t=ELuSpr53EkSM3EVe-1)
   - Showcases design rationale and in-progress work of my personal website. 
 - [CodePath Prework](https://www.figma.com/design/108DGbEm1sSLZUVhrFFADo/Yan-CodePath-Pre-Work-Web101?node-id=2-3&t=CElUbJOroobZAcT0-1)
@@ -28,6 +30,8 @@
   - Created the priority queue in JavaScript. 
 
 ## Programs
+- [2025 Agentic App Development](https://www.figma.com/design/imzRtPKvEhazSUgy3Evc2f/MoodMeals?node-id=1-6&t=nllMtfQdzPEayIZy-1)
+  - Spearheaded Ui design concept. 
 - [2024 iOS App Development Program](https://github.com/ysilksa/girlcode)
   - Created the skeleton in SwiftUI.
   - Designed the Profile subpage in Figma. 
