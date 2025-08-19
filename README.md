@@ -1,4 +1,4 @@
-- 🐇 I'm [Chisa Yan](ysilksa.github.io/personal-website/), an undergraduate student studying at Northwestern interested about diving into full-stack development and UX/UI!
+- 🐇 I'm [Chisa Yan](https://ysilksa.github.io/personal-website/), an undergraduate student studying at Northwestern interested about diving into full-stack development and UX/UI!
 - 🎀 Languages: C, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, SQL, Swift/SwiftUI
 - 🎨 Frameworks: React, Node.js, Next.js, React + Vite, Angular
 - 🫧 Other: MATLAB, Figma, Git, Docusaurus
