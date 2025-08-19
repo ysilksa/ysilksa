@@ -4,6 +4,7 @@
 - 🫧 Other: MATLAB, Figma
 - 💞️ I'm looking to expand my UI portfolio and learn new frameworks. I'm currently learning Vite, TypeScript, and Angular!
 - 💌 Email: isabellayan2027@u.northwestern.edu, isabellayan831@gmail.com, LinkedIn: https://www.linkedin.com/in/isabellayan814
+- 🌷 In my free time, I enjoy dancing, reading, beauty, and fashion! 
 
 
 ## Projects
