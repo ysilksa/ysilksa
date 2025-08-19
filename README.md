@@ -11,7 +11,7 @@
 - [Personal Website](https://github.com/ysilksa/personal-website)
   - In progress, digital resume to showcase skills and projects, as well as demonstrate basic web development knowledge. 
 - [CodePath Summer 2025](https://typing-loyal-octopus-582.vscodeedu.app)
-  - In progress for CodePath WEB101 course.
+  - Made to learn basic web development practices for CodePath's WEB101 course.
   - Event website that highlights new pop-up events in South Korea for foreign travelers.
 - [Sokana Collective Web Design](https://github.com/disc-sweb/frontend)
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
