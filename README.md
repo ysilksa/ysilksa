@@ -1,8 +1,8 @@
-- 🐇 I'm Chisa Yan, an undergraduate student studying at Northwestern interested about diving into full-stack development and UX/UI!
-- 🎀 Languages: C, C++, Java, Python, JavaScript, HTML, CSS, SQL, Swift/SwiftUI
-- 🎨 Frameworks: React, Node.js, Next.js, React + Vite
-- 🫧 Other: MATLAB, Figma
-- 💞️ I'm looking to expand my UI portfolio and learn new frameworks. I'm currently learning Vite, TypeScript, and Angular!
+- 🐇 I'm (Chisa Yan)[ysilksa.github.io/personal-website/], an undergraduate student studying at Northwestern interested about diving into full-stack development and UX/UI!
+- 🎀 Languages: C, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, SQL, Swift/SwiftUI
+- 🎨 Frameworks: React, Node.js, Next.js, React + Vite, Angular
+- 🫧 Other: MATLAB, Figma, Git, Docusaurus
+- 💞️ I'm looking to expand my UI portfolio and learn new frameworks. I'm currently learning Angular and Go!
 - 💌 Email: isabellayan2027@u.northwestern.edu, isabellayan831@gmail.com, LinkedIn: https://www.linkedin.com/in/isabellayan814
 - 🌷 In my free time, I enjoy dancing, reading, beauty, and fashion! 
 
