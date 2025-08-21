@@ -8,9 +8,12 @@
 
 
 ## Projects
+- [Portfolio](https://github.com/ysilksa/portfolio)
+  - [A more advanced version](https://www.figma.com/design/pXhSGZu0VZsfAenblYXPOU/Portfolio-Website-v2?node-id=0-1&t=hMcb6njipxH65hwz-1) of my personal website to showcase semantic HTML, Tailwind CSS, and web animations. 
 - [Personal Website](https://github.com/ysilksa/personal-website)
-  - In progress, digital resume to showcase skills and projects, as well as demonstrate basic web development knowledge.
+  - Demonstrates basic web development knowledge, and serves as a temporary personal website.
 - [Angular Weather App](https://github.com/ysilksa/angular-weatherapp)
+  - Weather app made with Weather (by Api Dojo) API. Used to learn basic Angular.
 - [CodePath Summer 2025](https://typing-loyal-octopus-582.vscodeedu.app)
   - Made to learn basic web development practices for CodePath's WEB101 course.
   - Event website that highlights new pop-up events in South Korea for foreign travelers.
