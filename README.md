@@ -30,19 +30,6 @@
 - [CodePath Prework](https://www.figma.com/design/108DGbEm1sSLZUVhrFFADo/Yan-CodePath-Pre-Work-Web101?node-id=2-3&t=CElUbJOroobZAcT0-1)
   - Event website that highlights new pop-up events in South Korea for foreign travelers.
 
-## Hack-a-Thons
-- [2025 WildHacks](https://github.com/ysilksa/jellyqueue)
-  - Designed the [UI](https://www.figma.com/design/O6yLcSrKdppXSJapw4Mbsi/wildhacks2025?node-id=0-1&t=Ik69JcKeCHjTrBvz-1) and implemented sign-in page UI.
-- [2024 WildHacks](https://github.com/ysilksa/scheduler)
-  - Created the priority queue in JavaScript. 
-
-## Programs
-- [2025 Agentic App Development](https://www.figma.com/design/imzRtPKvEhazSUgy3Evc2f/MoodMeals?node-id=1-6&t=nllMtfQdzPEayIZy-1)
-  - Spearheaded Ui design concept. 
-- [2024 iOS App Development Program](https://github.com/ysilksa/girlcode)
-  - Created the skeleton in SwiftUI.
-  - Designed the Profile subpage in Figma. 
-
 <!---
 ysilksa/ysilksa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
