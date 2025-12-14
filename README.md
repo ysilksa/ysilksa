@@ -21,6 +21,8 @@
   - Project for the non-profit organization Sokana Collective to revamp their current website. 
 
 ## UI Design Portfolio
+- [Club Event Finder](https://www.figma.com/design/GObgz8PDyiVBMkUMCCS0vp/CS330-Project-Team-10?node-id=0-1&t=uCvSSfOQKTrdoYfo-1)
+  - Sustainable way for students to find food from events on campus.
 - [MoodMeals](https://www.figma.com/design/imzRtPKvEhazSUgy3Evc2f/MoodMeals?node-id=1-6&t=nllMtfQdzPEayIZy-1)
   -  An AI-powered app that recommends meals based on the user's emotional state.
 - [Personal Website](https://www.figma.com/design/A1r8W9sf57LIc6lbnGbmoJ/Chisa-s-Personal-Website?node-id=0-1&t=ELuSpr53EkSM3EVe-1)
